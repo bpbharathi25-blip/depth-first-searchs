@@ -96,6 +96,10 @@ if __name__ == "__main__":
 
 ```
 
+OUTPUT:
+<img width="381" height="302" alt="image" src="https://github.com/user-attachments/assets/0a1e28ec-9737-400a-9c62-772c2324416c" />
+
+
 <hr>
 <h3>Sample Input</h3>
 <hr>
